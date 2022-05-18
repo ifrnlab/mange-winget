@@ -1,0 +1,14 @@
+Nome,Descrição
+install,Instalar um determinado pacote
+show,Mostra informações sobre um pacote
+source,Gerenciar fontes de pacotes
+search,Localizar e mostrar informações básicas de pacotes
+list,Exibir os pacotes instalados
+upgrade,Atualiza o pacote fornecido
+uninstall,Desinstala um determinado pacote
+hash,Ajuda para arquivos do instalador de hash
+validate,Valida um arquivo de manifesto
+settings,Abra as configurações ou defina as configurações do administrador
+features,Mostra o status dos recursos experimentais
+export,Exporta uma lista dos pacotes instalados
+import,Instala todos os pacotes em um arquivo
